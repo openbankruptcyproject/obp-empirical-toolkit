@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "OBP Empirical Toolkit"
+authors:
+  - name: "Open Bankruptcy Project"
+    affiliation: "501(c)(3) public charity"
+    website: "https://openbankruptcyproject.org"
+date-released: 2026-04-27
+license: MIT
+repository-code: "https://github.com/openbankruptcyproject/obp-empirical-toolkit"
+keywords:
+  - bankruptcy
+  - empirical research
+  - PACER
+  - CourtListener
+  - federal courts
+  - public data
