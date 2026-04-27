@@ -1,0 +1,8 @@
+chapter,outcome,p25_days,p50_days,p75_days,p90_days,n
+11,discharged,486,1090,2332,2980,262
+11,dismissed,112,258,504,860,885
+13,discharged,1283,1728,1890,1964,40201
+13,dismissed,149,385,790,1247,36422
+7,discharged,98,104,126,247,87683
+7,dismissed,38,82,199,572,1928
+AP,dismissed,117,208,366,577,1848
