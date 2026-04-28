@@ -1,0 +1,7 @@
+chapter,cohort,discharged,dismissed,converted,other,total,discharge_rate_pct,dismissal_rate_pct
+7,joint,17537,197,0,550,18284,95.91,1.08
+7,individual,70152,1733,0,11936,83821,83.69,2.07
+13,joint,11229,5191,0,3081,19501,57.58,26.62
+13,individual,28972,31232,0,18409,78613,36.85,39.73
+11,joint,91,58,0,43,192,47.4,30.21
+11,individual,173,827,0,4445,5445,3.18,15.19
