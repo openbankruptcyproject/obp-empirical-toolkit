@@ -1,0 +1,10 @@
+chapter,filing_position,total_cases,discharged,dismissed,discharge_rate_pct,dismissal_rate_pct
+11,first_filing,5472,256,857,4.68,15.66
+11,second_filing,152,8,27,5.26,17.76
+11,third_or_later,13,0,1,0.0,7.69
+13,first_filing,89491,37723,31856,42.15,35.6
+13,second_filing,7358,2207,3848,29.99,52.3
+13,third_or_later,1264,271,719,21.44,56.88
+7,first_filing,99526,85472,1805,85.88,1.81
+7,second_filing,2278,1960,106,86.04,4.65
+7,third_or_later,297,255,19,85.86,6.4
